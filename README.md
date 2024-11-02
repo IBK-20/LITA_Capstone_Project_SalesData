@@ -1,6 +1,7 @@
 # Sales Performance Analysis for a Retail Store
 
 
+
 ## Project Overview
 In this project, I analyzed the sales performance of a retail store by exploring sales data to uncover insights and track KPI trends.
 
