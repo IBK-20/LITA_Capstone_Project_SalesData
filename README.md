@@ -8,7 +8,7 @@ In this project, I analyzed the sales performance of a retail store by exploring
 
 ## Tools Used
 - Microsoft Excel for Exploration and Analysis [Click Here to view](https://universityoflagos-my.sharepoint.com/:x:/g/personal/210904532_live_unilag_edu_ng/ER1gFM69MpBFpvkJ1RF-AYIBAGRjTR1xy_OyawFDWyy8VA?e=wqBFC6)
--  SQL to query the data for analysis 
+-  SQL to query the data for analysis [Click here to view](https://github.com/IBK-20/LITA_Capstone_Project_SalesData/blob/36f9e646869b9894b66f09fced6c0bc1238001c6/sales_data_queries.sql)
 - PowerBI was used to create visualizations of the analysis
 
 
